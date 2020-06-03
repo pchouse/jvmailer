@@ -1,0 +1,17 @@
+/nbproject
+/vendor
+.settings
+.settings/
+.buildpath/
+.project/
+.metadata
+/target/surefire-reports/*
+.idea
+/lib/*.jar
+/target
+
+/src/test/resources/testgmailssl.properties
+/src/test/resources/testgmailtls.properties
+/src/test/resources/testoffice365.properties
+/src/assembly/**
+

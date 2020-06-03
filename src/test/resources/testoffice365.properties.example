@@ -1,0 +1,15 @@
+user =  
+password = 
+from = 
+to = 
+cc = 
+bcc = 
+reply-to = 
+server = smtp-mail.outlook.com
+port = 587
+ssl  = 0
+starttls = 1
+subject = Test jvmail by Office365 TLS
+deleteattachment = 1
+attachment = 1
+enable = 1
